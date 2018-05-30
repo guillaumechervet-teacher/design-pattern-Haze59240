@@ -1,0 +1,17 @@
+F:\EPSI\B3\Second semestre\design pattern\design-pattern-Haze59240\Basket\BasketTest\obj\Debug\netcoreapp2.0\BasketTest.csproj.CoreCompileInputs.cache
+F:\EPSI\B3\Second semestre\design pattern\design-pattern-Haze59240\Basket\BasketTest\obj\Debug\netcoreapp2.0\BasketTest.AssemblyInfoInputs.cache
+F:\EPSI\B3\Second semestre\design pattern\design-pattern-Haze59240\Basket\BasketTest\obj\Debug\netcoreapp2.0\BasketTest.AssemblyInfo.cs
+F:\EPSI\B3\Second semestre\design pattern\design-pattern-Haze59240\Basket\BasketTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\EPSI\B3\Second semestre\design pattern\design-pattern-Haze59240\Basket\BasketTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\EPSI\B3\Second semestre\design pattern\design-pattern-Haze59240\Basket\BasketTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\EPSI\B3\Second semestre\design pattern\design-pattern-Haze59240\Basket\BasketTest\bin\Debug\netcoreapp2.0\BasketTest.deps.json
+F:\EPSI\B3\Second semestre\design pattern\design-pattern-Haze59240\Basket\BasketTest\bin\Debug\netcoreapp2.0\BasketTest.runtimeconfig.json
+F:\EPSI\B3\Second semestre\design pattern\design-pattern-Haze59240\Basket\BasketTest\bin\Debug\netcoreapp2.0\BasketTest.runtimeconfig.dev.json
+F:\EPSI\B3\Second semestre\design pattern\design-pattern-Haze59240\Basket\BasketTest\bin\Debug\netcoreapp2.0\BasketTest.dll
+F:\EPSI\B3\Second semestre\design pattern\design-pattern-Haze59240\Basket\BasketTest\bin\Debug\netcoreapp2.0\BasketTest.pdb
+F:\EPSI\B3\Second semestre\design pattern\design-pattern-Haze59240\Basket\BasketTest\bin\Debug\netcoreapp2.0\Basket.dll
+F:\EPSI\B3\Second semestre\design pattern\design-pattern-Haze59240\Basket\BasketTest\bin\Debug\netcoreapp2.0\Basket.pdb
+F:\EPSI\B3\Second semestre\design pattern\design-pattern-Haze59240\Basket\BasketTest\obj\Debug\netcoreapp2.0\BasketTest.csproj.CopyComplete
+F:\EPSI\B3\Second semestre\design pattern\design-pattern-Haze59240\Basket\BasketTest\obj\Debug\netcoreapp2.0\BasketTest.dll
+F:\EPSI\B3\Second semestre\design pattern\design-pattern-Haze59240\Basket\BasketTest\obj\Debug\netcoreapp2.0\BasketTest.pdb
+F:\EPSI\B3\Second semestre\design pattern\design-pattern-Haze59240\Basket\BasketTest\bin\Debug\netcoreapp2.0\article-database.json
