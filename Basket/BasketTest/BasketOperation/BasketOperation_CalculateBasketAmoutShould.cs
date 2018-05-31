@@ -4,6 +4,8 @@ using System.IO;
 using System.Linq;
 using System.Reflection;
 using Basket;
+using Basket.Infrastructure;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Newtonsoft.Json;
 
 static internal class BasketOperation_CalculateBasketAmoutShould
@@ -42,5 +44,15 @@ static internal class BasketOperation_CalculateBasketAmoutShould
         }
 
         return amountTotal;
+    }
+    
+    [TestMethod]
+    [DynamicData("Baskets")]
+    public static void ReturnCorrectAmoutGivenBasket(BasketTest.BasketOperation_CalculateBasketAmoutShould.BasketTest basketTest)
+    {
+        var basKetService = new BasketService();
+        var basketOperation = new BasketOperation(basKetService);
+        var amountTotal = basketOperation.CalculateAmout(basketTest.BasketLineArticles);
+        Assert.AreEqual(amountTotal, basketTest.ExpectedPrice);
     }
 }

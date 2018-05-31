@@ -10,3 +10,16 @@ F:\EPSI\B3\Second semestre\design pattern\design-pattern-Haze59240\Basket\Basket
 F:\EPSI\B3\Second semestre\design pattern\design-pattern-Haze59240\Basket\Basket\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
 F:\EPSI\B3\Second semestre\design pattern\design-pattern-Haze59240\Basket\Basket\bin\Debug\netstandard2.0\Newtonsoft.Json.xml
 F:\EPSI\B3\Second semestre\design pattern\design-pattern-Haze59240\Basket\Basket\obj\Debug\netstandard2.0\Basket.csproj.CopyComplete
+D:\EPSI\B3\Second semestre\design pattern\design-pattern-Haze59240\Basket\Basket\bin\Debug\netstandard2.0\article-database.json
+D:\EPSI\B3\Second semestre\design pattern\design-pattern-Haze59240\Basket\Basket\bin\Debug\netstandard2.0\Basket.deps.json
+D:\EPSI\B3\Second semestre\design pattern\design-pattern-Haze59240\Basket\Basket\bin\Debug\netstandard2.0\Basket.dll
+D:\EPSI\B3\Second semestre\design pattern\design-pattern-Haze59240\Basket\Basket\bin\Debug\netstandard2.0\Basket.pdb
+D:\EPSI\B3\Second semestre\design pattern\design-pattern-Haze59240\Basket\Basket\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+D:\EPSI\B3\Second semestre\design pattern\design-pattern-Haze59240\Basket\Basket\bin\Debug\netstandard2.0\Newtonsoft.Json.xml
+D:\EPSI\B3\Second semestre\design pattern\design-pattern-Haze59240\Basket\Basket\obj\Debug\netstandard2.0\Basket.csprojAssemblyReference.cache
+D:\EPSI\B3\Second semestre\design pattern\design-pattern-Haze59240\Basket\Basket\obj\Debug\netstandard2.0\Basket.csproj.CoreCompileInputs.cache
+D:\EPSI\B3\Second semestre\design pattern\design-pattern-Haze59240\Basket\Basket\obj\Debug\netstandard2.0\Basket.AssemblyInfoInputs.cache
+D:\EPSI\B3\Second semestre\design pattern\design-pattern-Haze59240\Basket\Basket\obj\Debug\netstandard2.0\Basket.AssemblyInfo.cs
+D:\EPSI\B3\Second semestre\design pattern\design-pattern-Haze59240\Basket\Basket\obj\Debug\netstandard2.0\Basket.csproj.CopyComplete
+D:\EPSI\B3\Second semestre\design pattern\design-pattern-Haze59240\Basket\Basket\obj\Debug\netstandard2.0\Basket.dll
+D:\EPSI\B3\Second semestre\design pattern\design-pattern-Haze59240\Basket\Basket\obj\Debug\netstandard2.0\Basket.pdb

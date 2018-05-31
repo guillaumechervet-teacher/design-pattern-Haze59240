@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Basket
+﻿namespace Basket
 {
     public struct ArticleDatabase
     {

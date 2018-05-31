@@ -5716,11 +5716,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\EPSI\\B3\\Second semestre\\design pattern\\design-pattern-Haze59240\\Basket\\BasketTest\\BasketTest.csproj",
+      "projectUniqueName": "D:\\EPSI\\B3\\Second semestre\\design pattern\\design-pattern-Haze59240\\Basket\\BasketTest\\BasketTest.csproj",
       "projectName": "BasketTest",
-      "projectPath": "F:\\EPSI\\B3\\Second semestre\\design pattern\\design-pattern-Haze59240\\Basket\\BasketTest\\BasketTest.csproj",
+      "projectPath": "D:\\EPSI\\B3\\Second semestre\\design pattern\\design-pattern-Haze59240\\Basket\\BasketTest\\BasketTest.csproj",
       "packagesPath": "C:\\Users\\Mickael\\.nuget\\packages\\",
-      "outputPath": "F:\\EPSI\\B3\\Second semestre\\design pattern\\design-pattern-Haze59240\\Basket\\BasketTest\\obj\\",
+      "outputPath": "D:\\EPSI\\B3\\Second semestre\\design pattern\\design-pattern-Haze59240\\Basket\\BasketTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5737,8 +5737,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "F:\\EPSI\\B3\\Second semestre\\design pattern\\design-pattern-Haze59240\\Basket\\Basket\\Basket.csproj": {
-              "projectPath": "F:\\EPSI\\B3\\Second semestre\\design pattern\\design-pattern-Haze59240\\Basket\\Basket\\Basket.csproj"
+            "D:\\EPSI\\B3\\Second semestre\\design pattern\\design-pattern-Haze59240\\Basket\\Basket\\Basket.csproj": {
+              "projectPath": "D:\\EPSI\\B3\\Second semestre\\design pattern\\design-pattern-Haze59240\\Basket\\Basket\\Basket.csproj"
             }
           }
         }

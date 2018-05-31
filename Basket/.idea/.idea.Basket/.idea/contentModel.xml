@@ -4,15 +4,20 @@
     <e p="C:\Users\Mickael\.nuget\packages\mstest.testadapter\1.2.0\build\_common\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll" t="Include" />
     <e p="C:\Users\Mickael\.nuget\packages\mstest.testadapter\1.2.0\build\_common\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll" t="Include" />
     <e p="C:\Users\Mickael\.nuget\packages\mstest.testadapter\1.2.0\build\netcoreapp1.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll" t="Include" />
-    <e p="C:\Users\Mickael\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_Basket.1412874456.00" t="ExcludeRecursive" />
-    <e p="F:\EPSI\B3\Second semestre\design pattern\design-pattern-Haze59240\Basket" t="IncludeFlat">
+    <e p="C:\Users\Mickael\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_Basket.-1002961894.00" t="ExcludeRecursive" />
+    <e p="D:\EPSI\B3\Second semestre\design pattern\design-pattern-Haze59240\Basket" t="IncludeFlat">
       <e p="Basket" t="IncludeRecursive">
         <e p="article-database.json" t="Include" />
         <e p="ArticleDatabase.cs" t="Include" />
         <e p="Basket.csproj" t="IncludeRecursive" />
         <e p="BasketLineArticle.cs" t="Include" />
+        <e p="BasketOperation.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
+        <e p="Domain" t="Include" />
         <e p="ImperativeProgramming.cs" t="Include" />
+        <e p="Infrastructure" t="Include">
+          <e p="BasketService.cs" t="Include" />
+        </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netstandard2.0" t="Include">
